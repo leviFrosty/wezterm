@@ -15,6 +15,7 @@ end
 -- For example, changing the color scheme:
 -- config.color_scheme = 'AdventureTime'
 config.font = wezterm.font("FiraCode Nerd Font")
+
 config.font_size = 22
 
 -- and finally, return the configuration to wezterm
