@@ -19,6 +19,9 @@ config.font_size = 18
 config.line_height = 1.15
 
 config.color_scheme = "One Dark (Gogh)"
+config.colors = {
+	foreground = "#abb2bf",
+}
 
 config.window_padding = {
 	left = 0,
