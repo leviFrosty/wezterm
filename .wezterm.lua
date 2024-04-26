@@ -35,6 +35,13 @@ config.window_frame = {
 }
 
 config.window_close_confirmation = "NeverPrompt"
+config.keys = {
+	{
+		key = "w",
+		mods = "CMD",
+		action = wezterm.action.CloseCurrentPane({ confirm = true }),
+	},
+}
 
 config.default_cwd = "~/documents/"
 
