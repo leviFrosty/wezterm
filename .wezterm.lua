@@ -18,10 +18,7 @@ config.font = wezterm.font("FiraCode Nerd Font")
 config.font_size = 18
 config.line_height = 1.15
 
-config.colors = {
-	background = "#242424",
-	foreground = "#ffffff",
-}
+config.color_scheme = "One Dark (Gogh)"
 
 config.window_padding = {
 	left = 0,
