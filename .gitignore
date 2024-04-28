@@ -1,0 +1,8 @@
+*
+!.wezterm.lua
+!.bashrc
+!.bash_profile
+!.config
+!.config/nvim/
+!.config/nvim/**/*
+!.gitignore
