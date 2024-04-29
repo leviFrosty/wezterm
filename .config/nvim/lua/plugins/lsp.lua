@@ -114,7 +114,7 @@ return { -- LSP Configuration & Plugins
       rust_analyzer = {},
       cspell = {},
       jsonlint = {},
-      eslint_d = {},
+      eslint = {},
       pyright = {},
       html = {},
       prettier = {},

@@ -6,3 +6,5 @@
 !.config/nvim/
 !.config/nvim/**/*
 !.gitignore
+**/.DS_Store
+
