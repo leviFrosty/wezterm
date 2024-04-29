@@ -1,5 +1,5 @@
 -- Github copilot
-return  {
-    'github/copilot.vim',
-    version = '*',
-  }
+return {
+  'github/copilot.vim',
+  version = '*',
+}
