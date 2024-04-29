@@ -5,6 +5,6 @@ return {
     -- Set the theme to be used. Themes can be found in `lua/lualine/themes/`
     theme = 'ayu_dark',
     -- Set the extensions to be used in the statusline
-    extensions = { 'toggleterm', 'neo-tree', 'mason', 'lazy' },
+    extensions = { 'toggleterm', 'nvim-tree', 'mason', 'lazy' },
   },
 }

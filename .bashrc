@@ -4,5 +4,4 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 . "$HOME/.cargo/env"
 alias ls='ls -a'
-alias nvim="neovide"
-alias vim="nvim"
+alias vim="neovide"

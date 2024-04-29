@@ -20,7 +20,7 @@ config.line_height = 1.15
 
 config.color_scheme = "One Dark (Gogh)"
 config.colors = {
-	foreground = "#abb2bf",
+	foreground = "#ffffff",
 }
 
 config.window_padding = {
@@ -31,7 +31,7 @@ config.window_padding = {
 }
 
 config.window_frame = {
-	font_size = 10,
+	font_size = 12,
 }
 
 config.window_close_confirmation = "NeverPrompt"

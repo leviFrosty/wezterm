@@ -7,6 +7,8 @@ if vim.g.neovide then
   vim.g.neovide_remember_window_size = true
 end
 
+vim.opt.termguicolors = true
+
 -- Font Settings
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4

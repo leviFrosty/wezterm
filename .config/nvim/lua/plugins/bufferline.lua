@@ -10,7 +10,7 @@ return {
         color_icons = true,
         offsets = {
           {
-            filetype = 'neo-tree',
+            filetype = 'nvim-tree',
             text = 'File Explorer',
             highlight = 'Directory',
             separator = true, -- use a "true" to enable the default, or set your own character
