@@ -1,3 +1,0 @@
-return {
-  'rmagatti/auto-session',
-}
